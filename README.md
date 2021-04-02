@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deniz-shelby
-- 👀 I’m interested in Ai & Web development
+- 👀 I’m interested in AI & Web development
 - 🌱 I’m currently learning ML & AI
 - 💞️ I’m looking to collaborate on any project with AI 
 - 📫 How to reach me insta @denizshelby or twitter @Deniz_shelby
