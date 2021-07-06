@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/deniz-elci/
 
 
-[![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniz-shelby)](https://github.com/anuraghazra/github-readme-stats)
+[![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=deniz-shelby)](https://github.com/deniz-shelby/github-readme-stats)
 <!---
 Deniz-shelby/Deniz-shelby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
