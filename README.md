@@ -17,7 +17,6 @@
 **About Me!**
 
 - 💻 I’m interested in Data Science and AI applications
-- 🌱 I’m currently learning AI Engineering
 - 💞️ I’m looking to collaborate on AI & Web development related projects
 - 📫 Reach me: denizelci92@gmail.com
 
