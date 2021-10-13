@@ -15,3 +15,27 @@
 - B.Sc Technologymanegment (Mechanical Engineering with Economics)
 - Founder of a Marketing Agency
 
+### 🎯 Repos
+- <a href="https://github.com/Deniz-shelby/Python_stuff" target="_blank">Python</a>
+- <a href="https://github.com/Deniz-shelby/Machine_learning" target="_blank">Machine Learning</a>
+- <a href="https://github.com/Deniz-shelby/Deep_learning" target="_blank">Deep Learning</a>
+- <a href="https://github.com/Deniz-shelby/Computer_vision" target="_blank">Computer Vision</a>
+- <a href="https://github.com/Deniz-shelby/NLP" target="_blank">NLP</a>
+- <a href="https://github.com/Deniz-shelby/Computer_vision" target="_blank">Deep Learning</a>
+
+### :computer: Programming languages and tools: 
+<p>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<!--Include sklearn-->  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+ 
+
+</p>
