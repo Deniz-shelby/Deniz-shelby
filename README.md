@@ -16,6 +16,10 @@
 - Founder of a Marketing Agency
 
 ### 🎯 Repos
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz-shelby&hide=TeX&layout=compact&show_icons=true&theme=radical" />
+
+
 - <a href="https://github.com/Deniz-shelby/Python_stuff" target="_blank">Python</a>
 - <a href="https://github.com/Deniz-shelby/Machine_learning" target="_blank">Machine Learning</a>
 - <a href="https://github.com/Deniz-shelby/Deep_learning" target="_blank">Deep Learning</a>
@@ -28,7 +32,6 @@
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 sklearn
 pandas
 <br/>
@@ -38,6 +41,7 @@ pandas
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+spaCy
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
