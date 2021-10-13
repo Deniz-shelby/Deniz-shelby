@@ -8,23 +8,16 @@
 
 <br />
 <br />
-
-**Artificial Intelligence** ***Enthusiast*** 🚀.
  
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **About Me!**
 
-- 💻 I’m interested in Data Science and AI applications
-- 💞️ I’m looking to collaborate on AI & Web development related projects
-- 📫 Reach me: denizelci92@gmail.com
-
-
+- I’m a Data Scientist
+- B.Sc Technologymanegment (Mechanical Engineering with Economics)
+- Founder of a Marketing Agency
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deniz-shelby&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniz-shelby&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniz-shelby&count_private=true&theme=radical" alt="Deniz-Shelby" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz-shelby&count_private=true&theme=radical" alt="Deniz-Shelby" />
 
 
