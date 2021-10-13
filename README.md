@@ -11,15 +11,9 @@
  
 **About Me!**
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Deniz-shelby&show_icons=true&theme=radical" />
+
 - I’m a Data Scientist
 - B.Sc Technologymanegment (Mechanical Engineering with Economics)
 - Founder of a Marketing Agency
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deniz-shelby&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniz-shelby&count_private=true&theme=radical" alt="Deniz-Shelby" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz-shelby&count_private=true&theme=radical" alt="Deniz-Shelby" />
-
-
-----
-Last Edited on: 06/07/2021
