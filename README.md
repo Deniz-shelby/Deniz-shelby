@@ -25,7 +25,7 @@
 - <a href="https://github.com/Deniz-shelby/Deep_learning" target="_blank">Deep Learning</a>
 - <a href="https://github.com/Deniz-shelby/Computer_vision" target="_blank">Computer Vision</a>
 - <a href="https://github.com/Deniz-shelby/NLP" target="_blank">NLP</a>
-- <a href="https://github.com/Deniz-shelby/Computer_vision" target="_blank">Deep Learning</a>
+- <a href="https://github.com/Deniz-shelby/Topface" target="_blank">TopFace</a>
 
 ### :computer: Programming languages and tools: 
 <p>
