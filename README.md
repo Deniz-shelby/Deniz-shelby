@@ -11,7 +11,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Deniz-shelby&show_icons=true&theme=radical" />
 
-- I’m a Machine Engineer who fell in love with coding.
+- I am a mechanical engineer who fell in love with programming.
 
 ### 🎯 Repos
 
