@@ -28,10 +28,11 @@
 ### :computer: Programming languages and tools: 
 <p>
 
+ 
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-ar21.svg"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-sklearn
-pandas
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
