@@ -11,9 +11,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Deniz-shelby&show_icons=true&theme=radical" />
 
-- I’m a Data Scientist
-- Cand. M.Sc Technologymanegment (Mechanical Engineering with Economics)
-- Founder of a Marketing Agency
+- I’m a Machine Engineer who fell in love with coding.
 
 ### 🎯 Repos
 
