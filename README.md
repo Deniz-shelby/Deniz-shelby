@@ -6,7 +6,5 @@
 
 <br />
 <br />
- 
-### About Me!
 
-- I am a freelance software engineer.
+“Creativity is intelligence having fun.”
